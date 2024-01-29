@@ -1,0 +1,5 @@
+@charset "utf-8";
+
+body:not(.block-editor-page) :not(textarea) {
+	font-style: normal !important;
+}

@@ -1,0 +1,5 @@
+node_modules
+dist
+.idea
+wordpress/themes/*
+wordpress/plugins/*

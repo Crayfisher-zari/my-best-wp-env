@@ -1,0 +1,12 @@
+{
+  "core": "https://wordpress.org/wordpress-6.4.2.zip",
+  "config": {
+    "WP_DEBUG": true
+  },
+  "themes":["."],
+  "mappings": {
+    "wp-content/uploads": "./wordpress/uploads",
+    "wp-content/themes": "./wordpress/themes",
+    "wp-content/plugins": "./wordpress/plugins"
+  }
+}
