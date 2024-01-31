@@ -50,7 +50,7 @@ jsで画像ファイルを読み込む場合はViteにビルド時にパス解�
 
 ▼JS
 ```ts
-import imgsrc from "../images/js.png";
+import imgsrc from "/assets/images/js.png";
 // jsから画像を読み込むサンプル
 const canvas = document.querySelector<HTMLCanvasElement>("#canvas");
 const context = canvas!.getContext("2d");
